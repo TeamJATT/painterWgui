@@ -5,7 +5,7 @@ import numpy as np
 import time
 import os
 import HandTrackingModule as htm #change "HandTrackingModule" for whatever you name the hand tracking file
-import
+
 
 def close():
     ws.destroy()
